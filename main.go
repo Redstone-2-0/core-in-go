@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/tensor-programming/golang-blockchain/cli"
+	"https://github.com/tensor-programming/golang-blockchain/tree/part_10/cli" //god fixed
 )
 
 func main() {
