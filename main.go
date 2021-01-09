@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/tensor-programming/golang-blockchain/tree/part_10/cli" //god fixed
+	"github.com/Redstone-2-0/core-in-go/tree/main/cli" //god fixed
 )
 
 func main() {
