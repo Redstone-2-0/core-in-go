@@ -1,4 +1,5 @@
-module github.com/Redstone-2-0/core-in-go/
+module github.com/Redstone-2-0/core-in-go
+
 require (
 	github.com/AndreasBriese/bbloom v0.0.0-20190306092124-e2d15f34fcf9 // indirect
 	github.com/dgraph-io/badger v1.5.4
