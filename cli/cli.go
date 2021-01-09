@@ -1,4 +1,4 @@
-package cli
+package github.com/Redstone-2-0/core-in-go/tree/main/cli/cli.go
 
 import (
 	"flag"
