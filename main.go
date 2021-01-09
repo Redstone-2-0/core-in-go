@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/Redstone-2-0/core-in-go/tree/main/cli" //god fixed
+	"github.com/Redstone-2-0/core-in-go/tree/main/cli/cli.go" //god fixed
 )
 
 func main() {
