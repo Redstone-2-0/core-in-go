@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/Redstone-2-0/core-in-go/blockchain"
+	"github.com/Redstone-2-0/core-in-go/main/blockchain"
 	"github.com/Redstone-2-0/core-in-go/wallet"
 	"github.com/Redstone-2-0/core-in-go/network"
 )
