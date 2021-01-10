@@ -8,9 +8,9 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/Redstone-2-0/core-in-go/tree/main/blockchain"
-	"github.com/Redstone-2-0/core-in-go/tree/main/wallet"
-	"github.com/Redstone-2-0/core-in-go/tree/main/network"
+	"github.com/Redstone-2-0/core-in-go/blockchain"
+	"github.com/Redstone-2-0/core-in-go/wallet"
+	"github.com/Redstone-2-0/core-in-go/network"
 )
 
 type CommandLine struct{}
